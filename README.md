@@ -139,7 +139,7 @@ Je crois en une technologie accessible, utile et capable de répondre aux défis
 ## 📫 Me contacter
 
 - 📧 **Email :** [martinkourouma9@gmail.com](mailto:martinkourouma9@gmail.com)
-- 💼 **Portfolio :** [Découvrir mon portfolio](https://portofolio-actuel-dynamique.vercel.app/)
+- 💼 **Portfolio :** [Découvrir mon portfolio](https://technologue.dev/)
 - 💻 **GitHub :** [Mes dépôts et contributions](https://github.com/technologue)
 - 📝 **Actualités technologiques :** [Facebook](https://www.facebook.com/profile.php?id=100066393834614)
 - 🌍 **Pays :** Guinée 🇬🇳
